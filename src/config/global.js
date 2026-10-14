@@ -256,14 +256,144 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Accesibilidad digital',
+      significado:
+        'condición de un contenido o recurso digital que facilita su acceso, comprensión y uso por personas con diferentes capacidades y condiciones, mediante estructura adecuada, legibilidad y alternativas de accesibilidad pertinentes.',
+    },
+    {
+      termino: 'Atribución',
+      significado:
+        'reconocimiento de la procedencia y autoría de un recurso utilizado. Debe realizarse conforme a las condiciones aplicables y no equivale, por sí sola, a una autorización para reutilizarlo.',
+    },
+    {
+      termino: 'Ciberacoso',
+      significado:
+        'hostigamiento, intimidación, vigilancia o persecución reiterada mediante medios digitales. En el componente se utiliza como categoría pedagógica amplia; la Ley 2564 de 2026 emplea la expresión «ciberacoso o cyberbullying» de manera conjunta.',
+    },
+    {
+      termino: 'Ciberbullying',
+      significado:
+        'acoso repetido entre pares mediante medios digitales, orientado a humillar, intimidar, ridiculizar o excluir. Su diferenciación frente al ciberacoso se utiliza en el componente con finalidad pedagógica y no constituye una taxonomía legal exclusiva.',
+    },
+    {
+      termino: 'Colaboración en línea',
+      significado:
+        'proceso mediante el cual dos o más personas coordinan tareas, aportes y recursos a través de medios digitales para alcanzar un propósito común.',
+    },
+    {
+      termino: 'Comunicación digital',
+      significado:
+        'proceso mediante el cual se transmite, recibe e interpreta información utilizando dispositivos, aplicaciones, plataformas y redes tecnológicas. Puede integrar distintos formatos y desarrollarse de forma simultánea o diferida.',
+    },
+    {
+      termino: 'Contenido digital',
+      significado:
+        'recurso creado, almacenado, transmitido o publicado en formato electrónico que puede integrar texto, imagen, audio, video o interacción para responder a una finalidad determinada.',
+    },
+    {
+      termino: 'Grooming',
+      significado:
+        'acercamiento o manipulación intencional de una persona adulta hacia una persona menor de edad mediante entornos digitales con finalidad sexual, que puede incluir engaño, generación de confianza, solicitud de contenido íntimo o promoción de encuentros.',
+    },
+    {
+      termino: 'Identidad digital',
+      significado:
+        'conjunto amplio de información, rastros, contenidos, interacciones y referencias asociados con una persona en entornos digitales. Se construye mediante acciones propias, datos generados durante el uso de servicios y contenidos de terceros.',
+    },
+    {
+      termino: 'Licencia',
+      significado:
+        'conjunto de condiciones mediante las cuales quien posee los derechos de un recurso autoriza determinados usos. La reutilización debe respetar el alcance y las condiciones establecidas por la licencia correspondiente.',
+    },
+    {
+      termino: 'Medios sincrónicos y asincrónicos',
+      significado:
+        'formas de comunicación digital diferenciadas por la coincidencia temporal: la comunicación sincrónica requiere participación simultánea; la asincrónica permite intervenir en momentos diferentes. Un mismo medio puede admitir ambos usos.',
+    },
+    {
+      termino: 'Netiqueta',
+      significado:
+        'conjunto de pautas que orientan una comunicación respetuosa, clara y pertinente en entornos digitales mediante el cuidado del tono, las expresiones, el contexto y el manejo de desacuerdos.',
+    },
+    {
+      termino: 'Participación ciudadana en línea',
+      significado:
+        'conjunto de acciones realizadas mediante medios digitales para intervenir, aportar, consultar, proponer, solicitar información o hacer seguimiento a asuntos públicos, comunitarios o institucionales. El uso de un servicio digital no constituye automáticamente participación ciudadana.',
+    },
+    {
+      termino: 'Perfil digital',
+      significado:
+        'espacio específico y organizado en el que se presenta información seleccionada según un propósito y una audiencia. Forma parte de la identidad digital, pero no equivale a ella.',
+    },
+    {
+      termino: 'Portafolio digital',
+      significado:
+        'selección organizada de productos o evidencias que permite respaldar aprendizajes, capacidades, proyectos o experiencia. Puede vincularse con un perfil, pero cumple una función diferente.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Center for Teaching Innovation, Cornell University. (s. f.).Selecting Online Teaching Tools.',
+      link: 'https://teaching.cornell.edu/teaching-resources/online-teaching/selecting-online-teaching-tools',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2026, 8 de enero). Ley 2564 de 2026. Por medio del cual se crean medidas de sensibilización, visibilización, prevención, protección, atención frente a la salud mental y la violencia del entorno digital en los niños, niñas y adolescentes, se modifican y adicionan los artículos 3°, 30, 31 de la Ley 1616 de 2013 y se dictan otras disposiciones. SUIN-Juriscol.',
+      link: 'https://www.suin-juriscol.gov.co/clp/contenidos.dll/Leyes/30055979',
+    },
+    {
+      referencia: 'Creative Commons. (s. f.). Reusing CC-Licensed Content.',
+      link: 'https://creativecommons.org/reusing-cc-licensed-content/',
+    },
+    {
+      referencia:
+        'Departamento Administrativo de la Función Pública. (s. f.). Niveles de Participación Ciudadana.',
+      link: 'https://www1.funcionpublica.gov.co/web/eva/niveles-de-participacion-ciudadana',
+    },
+    {
+      referencia:
+        'Google. (s. f.-a). Acotar las búsquedas en Gmail. Ayuda de Gmail.',
+      link: 'https://support.google.com/mail/answer/7190?hl=es',
+    },
+    {
+      referencia:
+        'Google. (s. f.-b). Compartir carpetas en Google Drive. Ayuda de Google Drive.',
+      link: 'https://support.google.com/drive/answer/7166529?hl=es',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Bienestar Familiar. (2021, 18 de marzo). Grooming, la amenaza disfrazada de confianza que engaña a los niños en internet.',
+      link: 'https://www.icbf.gov.co/mis-manos-te-ensenan/grooming-la-amenaza-disfrazada-de-confianza-que-engana-los-ninos-en-internet',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Bienestar Familiar. (2025, 1 de julio). Orientación en linea.',
+      link: 'https://www.icbf.gov.co/orientacion-en-linea',
+    },
+    {
+      referencia:
+        'International Telecommunication Union. (2024). Security in telecommunications and information technology (8th edition).',
+      link: 'https://www.itu.int/epublications/publication/itu-t-sec-manual-2024-09-security-in-telecommunications-and-information-technology-8th-edition',
+    },
+    {
+      referencia:
+        'Microsoft. (s. f.). Restore a previous version of a file stored in OneDrive. Microsoft Support.',
+      link: 'https://support.microsoft.com/en-us/onedrive/restore-a-previous-version-of-a-file-stored-in-onedrive',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2020, 27 de enero). ¡Pilas con los datos personales en la vida digital!',
+      link: 'https://www.mintic.gov.co/portal/historico/w3-article-125647.html',
+    },
+    {
+      referencia: 'UNICEF. (2026, enero). Ciberacoso: qué es y cómo detenerlo.',
+      link: 'https://www.unicef.org/es/end-violence/ciberacoso-que-es-y-como-detenerlo',
+    },
+    {
+      referencia:
+        'World Wide Web Consortium (W3C), Web Accessibility Initiative (WAI). (2024, 17 de septiembre). Captions/Subtitles.',
+      link: 'https://www.w3.org/WAI/media/av/captions/',
     },
   ],
   creditos: [
@@ -272,13 +402,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
@@ -286,9 +412,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Leonardo Camacho Acevedo',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Alba Mireya Orjuela Toro',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Cristancho Cubillos',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Angelica Gómez Morales',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -296,20 +453,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -319,13 +506,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
