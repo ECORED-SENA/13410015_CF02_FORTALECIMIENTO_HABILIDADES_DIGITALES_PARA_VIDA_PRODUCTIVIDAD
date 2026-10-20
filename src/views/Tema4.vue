@@ -108,7 +108,7 @@
             .row(titulo="Revisor").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Comprueba calidad, consistencia y cumplimiento de los criterios definidos para el producto final.
             .row(titulo="Responsable de archivos").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Mantiene organizados carpetas, versiones, enlaces y accesos asociados con los recursos del equipo.
+              p.mb-3 Mantiene organizadas carpetas, versiones, enlaces y accesos asociados con los recursos del equipo.
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t4/img12.png", alt="" style="width: 350px").m-auto

@@ -268,10 +268,10 @@ export default {
     {
       termino: 'Ciberacoso',
       significado:
-        'hostigamiento, intimidación, vigilancia o persecución reiterada mediante medios digitales. En el componente se utiliza como categoría pedagógica amplia; la Ley 2564 de 2026 emplea la expresión «ciberacoso o cyberbullying» de manera conjunta.',
+        'hostigamiento, intimidación, vigilancia o persecución reiterada mediante medios digitales. En el componente se utiliza como categoría pedagógica amplia; la Ley 2564 de 2026 emplea la expresión «ciberacoso o <i>ciberbullying</i>» de manera conjunta.',
     },
     {
-      termino: 'Ciberbullying',
+      termino: '<i>Ciberbullying</i>',
       significado:
         'acoso repetido entre pares mediante medios digitales, orientado a humillar, intimidar, ridiculizar o excluir. Su diferenciación frente al ciberacoso se utiliza en el componente con finalidad pedagógica y no constituye una taxonomía legal exclusiva.',
     },
