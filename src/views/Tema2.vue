@@ -322,7 +322,7 @@
       .caja-3(data-aos="zoom-in").mb-5
         .row.align-items-center
           .col-xl.order-2.order-lg-1.caja-3_p
-            p.mb-0 El contexto comunicativo comprende la finalidad, los participantes, la formalidad, el tiempo de respuesta, la privacidad y las características de la información. Estas condiciones orientan la elección y uso del medio. Una misma intención puede requerir diferente tono, extensión, canal o nivel de registro según la situación.
+            p.mb-0 El contexto comunicativo comprende la finalidad, los participantes, la formalidad, el tiempo de respuesta, la privacidad y las características de la información. Estas condiciones orientan la elección y el uso del medio. Una misma intención puede requerir diferente tono, extensión, canal o nivel de registro según la situación.
           .col-xl-auto.order-1.order-lg-2
             figure
               img(src='@/assets/curso/temas/t2/img25.png', alt='' style="width: 500px").m-auto

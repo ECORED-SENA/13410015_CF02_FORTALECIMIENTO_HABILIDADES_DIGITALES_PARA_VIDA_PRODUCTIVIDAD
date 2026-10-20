@@ -94,12 +94,12 @@
             img(src='@/assets/curso/temas/t5/img10.png', alt='').m-auto
       Separador
       #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 5.2 Peligros en redes y comunidades digitales: ciberbullying, grooming y ciberacoso
+        h2 5.2 Peligros en redes y comunidades digitales: <i>ciberbullying</i>, <i>grooming</i> y ciberacoso
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/img11.png')})` }")
         .bloque-texto-g__texto.p-4
-          p Los entornos digitales pueden utilizarse para intimidar, hostigar, manipular o vulnerar la privacidad de otras personas. Reconocer las diferencias entre estas situaciones permite identificar señales de alerta y actuar de forma segura. El ciberbullying, el grooming y el ciberacoso presentan características y manifestaciones que requieren criterios de reconocimiento y protección acordes con cada situación.
+          p Los entornos digitales pueden utilizarse para intimidar, hostigar, manipular o vulnerar la privacidad de otras personas. Reconocer las diferencias entre estas situaciones permite identificar señales de alerta y actuar de forma segura. El <i>ciberbullying</i>, el <i>grooming</i> y el ciberacoso presentan características y manifestaciones que requieren criterios de reconocimiento y protección acordes con cada situación.
       p.mb-5 Las principales diferencias pueden organizarse según las personas involucradas, la conducta y su finalidad:
       .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
         h5 Tabla 12.
@@ -128,7 +128,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/img12.png')})` }")
         .bloque-texto-g__texto.p-4
-          p En este apartado se diferencia pedagógicamente el #[i ciberbullying] asociado principalmente con situaciones reiteradas entre pares del uso más amplio de ciberacoso. Sin embargo, esta distinción no constituye una clasificación jurídica: la normativa colombiana vigente utiliza también las expresiones ciberacoso y #[i cyberbullying] como denominaciones equivalentes. 
+          p En este apartado se diferencia pedagógicamente el #[i ciberbullying] asociado principalmente con situaciones reiteradas entre pares del uso más amplio de ciberacoso. Sin embargo, esta distinción no constituye una clasificación jurídica: la normativa colombiana vigente utiliza también las expresiones ciberacoso y #[i ciberbullying] como denominaciones equivalentes. 
       p.mb-5 Algunas manifestaciones permiten reconocer cuándo una interacción requiere detenerse, solicitar apoyo o utilizar mecanismos de protección:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
@@ -195,7 +195,7 @@
               figure
                 img(src='@/assets/curso/temas/t2/img11.svg', alt='' style="width: 80px").m-auto
             .col-xl
-              p.mb-0 El siguiente caso permite reconocer señales de grooming y aplicar decisiones básicas de protección:
+              p.mb-0 El siguiente caso permite reconocer señales de <i>grooming</i> y aplicar decisiones básicas de protección:
           .caja-1.color-1(data-aos="fade-left")
             h5 Ejemplo aplicado
             p Una persona menor de edad recibe mensajes de alguien que insiste en conversar en privado, mantener el contacto en secreto y enviar una fotografía íntima.

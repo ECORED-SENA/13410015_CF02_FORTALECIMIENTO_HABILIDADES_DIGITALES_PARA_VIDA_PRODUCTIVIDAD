@@ -339,7 +339,7 @@
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Voz IP
               p La voz sobre protocolo de internet (VoIP) permite transmitir comunicación vocal mediante redes IP. Se utiliza en aplicaciones de comunicación, plataformas de mensajería, sistemas empresariales y servicios de atención.
-              p.mb-0 Su calidad depende de la conexión, el dispositivo y los recursos de audio. Antes de una llamada conviene comprobar su funcionamiento y proteger información sensible. Los acuerdos importantes pueden complementarse con un registro escrito.
+              p.mb-0 Su calidad depende de la conexión, el dispositivo y los recursos de audio. Antes de una llamada, conviene comprobar su funcionamiento y proteger información sensible. Los acuerdos importantes pueden complementarse con un registro escrito.
         .py-3.py-md-4(titulo="Videoconferencia")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1

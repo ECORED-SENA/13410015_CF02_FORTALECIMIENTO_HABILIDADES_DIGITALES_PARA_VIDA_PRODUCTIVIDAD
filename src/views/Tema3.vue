@@ -290,7 +290,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t3/img25.png')})` }")
         .bloque-texto-g__texto.p-4
-          p Estos espacios pueden favorecer aprendizaje, intercambio de experiencias, participación en grupos de interés, orientación, colaboración e iniciativas académicas, profesionales o comunitarias.
+          p Estos espacios pueden favorecer el aprendizaje, el intercambio de experiencias, la participación en grupos de interés, la orientación, la colaboración y las iniciativas académicas, profesionales o comunitarias.
       p.mb-5 Para participar de manera pertinente, conviene considerar prácticas directamente relacionadas con el propósito del espacio:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
@@ -371,26 +371,95 @@
             .row(titulo="Organización del contenido para difundir").ajuste-cajaAcordion.ajuste-vineta
               p En contenido difundido en medios digitales debe ser claro, ordenado y coherente. Para ello, puede organizarse con una estructura básica:
               ol.lista-ol--cuadro.mb-0
-                li
+                li.d-flex
                   .lista-ol--cuadro__vineta
                     span 1
-                  | #[b Título:] presenta el tema principal.
-                li
+                  | 
+                  p.fit--p-ol.mb-0 #[b Título:]  presenta el tema principal.
+
+              ol.lista-ol--cuadro.mb-0
+                li.d-flex
                   .lista-ol--cuadro__vineta
                     span 2
-                  | #[b Propósito:] explica para qué se comparte el contenido.
-                li
+                  | 
+                  p.fit--p-ol.mb-0  #[b Propósito: ]  explica para qué se comparte el contenido.
+                  
+              ol.lista-ol--cuadro.mb-0
+                li.d-flex
                   .lista-ol--cuadro__vineta
                     span 3
-                  | #[b Mensaje central:] desarrolla la idea principal.
+                  | 
+                  p.fit--p-ol.mb-0 #[b Mensaje central:]  desarrolla la idea principal.
+                  
+              ol.lista-ol--cuadro.mb-0
+                li.d-flex
+                  .lista-ol--cuadro__vineta
+                    span 4
+                  | 
+                  p.fit--p-ol.mb-0 #[b Soportes: ] incluye datos, imágenes, ejemplos, evidencias o enlaces.
+              ol.lista-ol--cuadro.mb-0
+                li.d-flex
+                  .lista-ol--cuadro__vineta
+                    span 5
+                  | 
+                  p.fit--p-ol.mb-0 #[b Cierre: ]  resume o invita a una acción.
+              
+              ol.lista-ol--cuadro.mb-0
+                li.d-flex
+                  .lista-ol--cuadro__vineta
+                    span 6
+                  | 
+                  p.fit--p-ol.mb-0 #[b Créditos:] reconoce autoría, fuentes o participantes cuando corresponda.
+              
+              p.mb-3 Esta estructura puede adaptarse según el formato. En una infografía, el mensaje debe ser breve y visual. En un video, se requiere inicio, desarrollo y cierre. En un documento, se necesita mayor profundidad y organización textual.
+            .row(titulo="Criterios de calidad para la difusión digital").ajuste-cajaAcordion.ajuste-vineta
+              p Antes de publicar o compartir un trabajo, experiencia o tema de interés, se recomienda revisar:
+              ul.fa-ul.mb-3
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Claridad del mensaje.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Coherencia entre título, contenido y propósito.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Ortografía y redacción.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Calidad de imágenes, audio o video.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Tamaño y formato del archivo.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Funcionamiento de enlaces.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Pertinencia del canal utilizado.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Respeto por derechos de autor.
+                li.mb-0
+                  span.fa-li
+                    i.fas.fa-arrow-alt-circle-right
+                  | Autorización para usar imágenes o datos de otras personas.
+                  | #[b Mensaje central:]  desarrolla la idea principal.
                 li
                   .lista-ol--cuadro__vineta
                     span 4
-                  | #[b Soportes:] incluye datos, imágenes, ejemplos, evidencias o enlaces.
+                  | #[b Soportes: ] incluye datos, imágenes, ejemplos, evidencias o enlaces.
                 li
                   .lista-ol--cuadro__vineta
                     span 5
-                  | #[b Cierre:] resume o invita a una acción.
+                  | #[b Cierre: ]  resume o invita a una acción.
                 li
                   .lista-ol--cuadro__vineta
                     span 6

@@ -496,12 +496,12 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Ciberbullying.',
+              texto: '<i>Ciberbullying</i>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Grooming.',
+              texto: '<i>Grooming</i>.',
               esCorrecta: true,
             },
             {
@@ -558,25 +558,25 @@ export default {
             {
               id: 'a',
               texto:
-                'El ciberbullying corresponde a cualquier desacuerdo digital y el ciberacoso ocurre únicamente entre personas desconocidas.',
+                'El <i>ciberbullying</i> corresponde a cualquier desacuerdo digital y el ciberacoso ocurre únicamente entre personas desconocidas.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'El ciberbullying implica necesariamente una relación entre persona adulta y menor, mientras el ciberacoso ocurre entre pares.',
+                'El <i>ciberbullying</i> implica necesariamente una relación entre persona adulta y menor, mientras el <i>ciberacoso</i> ocurre entre pares.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'El ciberbullying y el ciberacoso son conceptos idénticos y deben aplicarse con los mismos criterios en cualquier situación.',
+                'El <i>ciberbullying</i> y el <i>ciberacoso</i> son conceptos idénticos y deben aplicarse con los mismos criterios en cualquier situación.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'El ciberbullying se asocia con acoso repetido entre pares y el ciberacoso comprende formas más amplias de hostigamiento digital.',
+                'El <i>ciberbullying</i> se asocia con acoso repetido entre pares y el <i>ciberacoso</i> comprende formas más amplias de hostigamiento digital.',
               esCorrecta: true,
             },
           ],
